@@ -9,4 +9,4 @@
 📫 Feel free to explore my projects and connect with me on [LinkedIn] (www.linkedin.com/in/yeganeh-maroufi-b4a280226).
 
 
-![Yeganeh's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?YeganehMaroufi=anuraghazra&show_icons=true&theme=transparent))
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?YeganehMaroufi=anuraghazra&show_icons=true&theme=transparent)

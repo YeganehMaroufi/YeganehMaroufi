@@ -1,4 +1,4 @@
-👋 Hi there! I'm Yeganeh Maroufi, a software engineering student currently pursuing my Bachelor's degree at Islamic Azad University, Qazvin. I previously earned my Associate degree from Tehran Valiasr Technical University, where I honed my skills in software development.
+👋 Hi there! I'm Yeganeh Maroufi, a software engineering student currently pursuing my Bachelor's degree at Islamic Azad University , where I honed my skills in software development.
 
 💻 I have a strong interest in front-end development and am proficient in HTML, CSS, and JavaScript. My journey started with a final project where I developed a fully functional clothing store using WordPress, showcasing my ability to create user-friendly and visually appealing websites.
 

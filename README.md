@@ -1,6 +1,6 @@
 👋 Hi there! I'm Yeganeh Maroufi, a software engineering student currently pursuing my Bachelor's degree at Islamic Azad University , where I honed my skills in software development.
 
-💻 I have a strong interest in front-end development and am proficient in HTML, CSS, and JavaScript. My journey started with a final project where I developed a fully functional clothing store using WordPress, showcasing my ability to create user-friendly and visually appealing websites.
+💻 I have a strong interest in front-end development and am proficient in HTML, CSS, and JavaScript.
 
 🚀 Now, I'm diving deeper into front-end technologies, exploring modern frameworks like React, and working on new projects to expand my expertise. I'm passionate about building interactive user interfaces that enhance the user experience.
 
